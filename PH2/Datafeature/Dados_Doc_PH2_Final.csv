@@ -1,0 +1,201 @@
+,img_id,asymmetry,pigment_net,dots_glob,streaks,regressionA,blue_whit,Color_W,Color_R,Color_L_B,Color_D_B,Color_B_G,Color_B,Class,histo_diagnosis,Common_Nevus,Atypical_Nevus,Melanoma
+0,IMD003,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+1,IMD009,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+2,IMD016,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+3,IMD022,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+4,IMD024,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+5,IMD025,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+6,IMD035,Totalmente A.,Típico,Ausente,Ausente,Ausente,Ausente,0,1,1,0,0,0,Common Nevus,0,1,0,0
+7,IMD038,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,1,Common Nevus,0,1,0,0
+8,IMD042,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+9,IMD044,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,0,1,1,0,Common Nevus,0,1,0,0
+10,IMD045,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+11,IMD050,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+12,IMD092,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+13,IMD101,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+14,IMD103,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+15,IMD112,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,1,1,1,0,0,Common Nevus,0,1,0,0
+16,IMD118,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+17,IMD125,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+18,IMD132,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+19,IMD134,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,1,1,1,0,0,Common Nevus,0,1,0,0
+20,IMD135,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+21,IMD144,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+22,IMD146,Parcialmente A.,Típico,Ausente,Presente,Ausente,Ausente,0,1,1,1,0,0,Common Nevus,0,1,0,0
+23,IMD147,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+24,IMD150,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,1,0,0,0,1,0,Common Nevus,0,1,0,0
+25,IMD152,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+26,IMD156,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+27,IMD159,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+28,IMD161,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+29,IMD162,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+30,IMD175,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+31,IMD177,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+32,IMD182,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+33,IMD198,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+34,IMD200,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+35,IMD010,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+36,IMD017,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+37,IMD020,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,1,Common Nevus,0,1,0,0
+38,IMD039,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+39,IMD041,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,1,Common Nevus,0,1,0,0
+40,IMD105,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+41,IMD107,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+42,IMD108,Parcialmente A.,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+43,IMD133,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+44,IMD142,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+45,IMD143,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+46,IMD160,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+47,IMD173,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+48,IMD176,Simétrico,Típico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+49,IMD196,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+50,IMD197,Simétrico,Típico,Atípico,Ausente,Ausente,Ausente,0,0,0,1,0,1,Common Nevus,0,1,0,0
+51,IMD199,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+52,IMD203,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+53,IMD204,Simétrico,Típico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+54,IMD206,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+55,IMD207,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+56,IMD208,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+57,IMD364,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+58,IMD365,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+59,IMD367,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+60,IMD371,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+61,IMD372,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+62,IMD374,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+63,IMD375,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+64,IMD378,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+65,IMD379,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+66,IMD380,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+67,IMD381,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+68,IMD383,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+69,IMD384,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+70,IMD385,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+71,IMD389,Simétrico,Típico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+72,IMD390,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Common Nevus,0,1,0,0
+73,IMD392,Simétrico,Típico,Atípico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+74,IMD394,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+75,IMD395,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+76,IMD397,Simétrico,Típico,Atípico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+77,IMD399,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Common Nevus,0,1,0,0
+78,IMD400,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+79,IMD402,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Common Nevus,0,1,0,0
+80,IMD002,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+81,IMD004,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+82,IMD013,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Atypical Nevus,0,0,1,0
+83,IMD015,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,1,0,0,1,0,Atypical Nevus,0,0,1,0
+84,IMD019,Simétrico,Atípico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+85,IMD021,Simétrico,Atípico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,1,Atypical Nevus,0,0,1,0
+86,IMD027,Simétrico,Atípico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+87,IMD030,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+88,IMD032,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+89,IMD033,Totalmente A.,Atípico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,1,Atypical Nevus,0,0,1,0
+90,IMD037,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+91,IMD040,Parcialmente A.,Atípico,Típico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+92,IMD043,Parcialmente A.,Atípico,Típico,Ausente,Ausente,Ausente,0,0,0,1,0,1,Atypical Nevus,0,0,1,0
+93,IMD047,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+94,IMD048,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Atypical Nevus,0,0,1,0
+95,IMD049,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Presente,0,0,0,1,1,0,Atypical Nevus,0,0,1,0
+96,IMD057,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,1,Atypical Nevus,Dysplastic Nevus,0,1,0
+97,IMD075,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,0,1,0,1,Atypical Nevus,0,0,1,0
+98,IMD076,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,0,0,1,0,Atypical Nevus,Blue Nevus,0,1,0
+99,IMD078,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,0,0,0,1,Atypical Nevus,Intradermal Nevus,0,1,0
+100,IMD120,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+101,IMD126,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,1,Atypical Nevus,0,0,1,0
+102,IMD137,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+103,IMD138,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+104,IMD139,Simétrico,Atípico,Atípico,Presente,Ausente,Ausente,0,0,0,1,0,1,Atypical Nevus,0,0,1,0
+105,IMD140,Simétrico,Atípico,Ausente,Presente,Ausente,Ausente,0,0,0,1,0,1,Atypical Nevus,0,0,1,0
+106,IMD149,Simétrico,Atípico,Típico,Ausente,Ausente,Ausente,1,0,0,1,1,0,Atypical Nevus,0,0,1,0
+107,IMD153,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,1,0,1,0,0,0,Atypical Nevus,0,0,1,0
+108,IMD157,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,1,0,Atypical Nevus,0,0,1,0
+109,IMD164,Simétrico,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+110,IMD166,Simétrico,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+111,IMD169,Simétrico,Atípico,Atípico,Presente,Ausente,Presente,0,0,0,1,1,1,Atypical Nevus,Dysplastic Nevus,0,1,0
+112,IMD171,Simétrico,Atípico,Ausente,Presente,Ausente,Ausente,0,1,0,1,0,1,Atypical Nevus,0,0,1,0
+113,IMD210,Totalmente A.,Atípico,Ausente,Presente,Ausente,Presente,0,0,0,1,1,1,Atypical Nevus,Dysplastic Nevus,0,1,0
+114,IMD347,Simétrico,Atípico,Atípico,Ausente,Ausente,Presente,0,0,0,1,1,0,Atypical Nevus,Intradermal Nevus,0,1,0
+115,IMD155,Simétrico,Típico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+116,IMD376,Simétrico,Típico,Ausente,Presente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+117,IMD006,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+118,IMD008,Simétrico,Típico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Atypical Nevus,0,0,1,0
+119,IMD014,Parcialmente A.,Atípico,Atípico,Ausente,Presente,Ausente,1,0,1,1,0,0,Atypical Nevus,0,0,1,0
+120,IMD018,Simétrico,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+121,IMD023,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Atypical Nevus,0,0,1,0
+122,IMD031,Simétrico,Atípico,Ausente,Presente,Ausente,Presente,0,0,0,1,1,0,Atypical Nevus,0,0,1,0
+123,IMD036,Simétrico,Atípico,Típico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Atypical Nevus,0,0,1,0
+124,IMD154,Simétrico,Atípico,Ausente,Ausente,Presente,Ausente,1,0,1,0,0,0,Atypical Nevus,0,0,1,0
+125,IMD170,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+126,IMD226,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+127,IMD243,Simétrico,Atípico,Atípico,Presente,Ausente,Ausente,0,1,0,1,0,0,Atypical Nevus,0,0,1,0
+128,IMD251,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+129,IMD254,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,0,0,0,Atypical Nevus,0,0,1,0
+130,IMD256,Parcialmente A.,Atípico,Ausente,Presente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+131,IMD278,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+132,IMD279,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+133,IMD280,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+134,IMD304,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+135,IMD305,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+136,IMD306,Simétrico,Atípico,Ausente,Presente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+137,IMD312,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+138,IMD328,Simétrico,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+139,IMD331,Simétrico,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+140,IMD339,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+141,IMD356,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+142,IMD360,Simétrico,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+143,IMD368,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+144,IMD369,Simétrico,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,1,Atypical Nevus,0,0,1,0
+145,IMD370,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,0,0,0,Atypical Nevus,0,0,1,0
+146,IMD382,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+147,IMD386,Simétrico,Atípico,Ausente,Presente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+148,IMD388,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+149,IMD393,Simétrico,Atípico,Ausente,Presente,Ausente,Ausente,0,1,1,0,0,0,Atypical Nevus,0,0,1,0
+150,IMD396,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+151,IMD398,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,0,1,0,0,Atypical Nevus,0,0,1,0
+152,IMD427,Simétrico,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,1,Atypical Nevus,0,0,1,0
+153,IMD430,Simétrico,Atípico,Ausente,Presente,Presente,Ausente,1,0,1,1,0,0,Atypical Nevus,0,0,1,0
+154,IMD431,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+155,IMD432,Totalmente A.,Atípico,Atípico,Presente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+156,IMD433,Parcialmente A.,Atípico,Ausente,Presente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,0,0,1,0
+157,IMD434,Totalmente A.,Atípico,Atípico,Presente,Ausente,Presente,0,0,1,1,1,0,Atypical Nevus,0,0,1,0
+158,IMD436,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,0,Atypical Nevus,Dysplastic Nevus,0,1,0
+159,IMD437,Totalmente A.,Atípico,Atípico,Ausente,Presente,Ausente,0,0,0,1,0,1,Atypical Nevus,Dysplastic Nevus,0,1,0
+160,IMD058,Simétrico,Atípico,Ausente,Ausente,Presente,Presente,1,1,0,1,1,0,Melanoma,Melanoma,0,0,1
+161,IMD061,Totalmente A.,Atípico,Ausente,Ausente,Presente,Presente,0,0,1,0,1,0,Melanoma,0,0,0,1
+162,IMD063,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Presente,0,0,1,1,0,0,Melanoma,Melanoma,0,0,1
+163,IMD064,Totalmente A.,Atípico,Ausente,Presente,Presente,Presente,1,0,1,0,1,0,Melanoma,Melanoma,0,0,1
+164,IMD065,Totalmente A.,Atípico,Ausente,Ausente,Presente,Presente,0,0,0,1,0,1,Melanoma,0,0,0,1
+165,IMD080,Totalmente A.,Atípico,Ausente,Presente,Presente,Presente,0,1,0,1,0,1,Melanoma,Melanoma,0,0,1
+166,IMD085,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Presente,0,0,0,0,1,1,Melanoma,0,0,0,1
+167,IMD088,Totalmente A.,Atípico,Atípico,Presente,Presente,Presente,1,0,0,1,1,1,Melanoma,Melanoma,0,0,1
+168,IMD090,Totalmente A.,Atípico,Atípico,Presente,Presente,Presente,0,0,0,1,1,1,Melanoma,Melanoma,0,0,1
+169,IMD091,Simétrico,Típico,Atípico,Ausente,Ausente,Presente,0,0,0,0,1,1,Melanoma,0,0,0,1
+170,IMD168,Totalmente A.,Atípico,Ausente,Presente,Presente,Presente,1,0,0,1,1,1,Melanoma,0,0,0,1
+171,IMD211,Parcialmente A.,Atípico,Ausente,Ausente,Ausente,Presente,0,0,0,0,1,1,Melanoma,Nodular Melanoma,0,0,1
+172,IMD219,Totalmente A.,Atípico,Atípico,Ausente,Presente,Presente,0,0,1,1,1,1,Melanoma,Melanoma,0,0,1
+173,IMD240,Totalmente A.,Atípico,Ausente,Presente,Presente,Presente,0,0,0,0,1,1,Melanoma,Melanoma,0,0,1
+174,IMD242,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,1,Melanoma,Lentigo Maligna,0,0,1
+175,IMD284,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Presente,0,0,0,1,1,0,Melanoma,Melanoma,0,0,1
+176,IMD285,Simétrico,Atípico,Ausente,Ausente,Ausente,Presente,0,0,1,1,1,0,Melanoma,Melanoma,0,0,1
+177,IMD348,Totalmente A.,Atípico,Atípico,Presente,Presente,Presente,1,0,0,1,1,1,Melanoma,Melanoma,0,0,1
+178,IMD349,Totalmente A.,Atípico,Atípico,Ausente,Presente,Presente,0,0,1,1,0,0,Melanoma,Melanoma,0,0,1
+179,IMD403,Totalmente A.,Atípico,Ausente,Ausente,Presente,Ausente,1,0,1,1,0,0,Melanoma,Melanoma,0,0,1
+180,IMD404,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,1,0,1,1,0,0,Melanoma,Lentigo Maligna,0,0,1
+181,IMD405,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Presente,0,0,1,1,1,1,Melanoma,Nodular Melanoma,0,0,1
+182,IMD407,Totalmente A.,Atípico,Atípico,Presente,Ausente,Ausente,0,0,1,1,0,1,Melanoma,Melanoma,0,0,1
+183,IMD408,Totalmente A.,Atípico,Atípico,Presente,Presente,Presente,1,0,1,1,1,1,Melanoma,Melanoma,0,0,1
+184,IMD409,Totalmente A.,Atípico,Ausente,Presente,Presente,Presente,1,0,1,1,1,1,Melanoma,Melanoma,0,0,1
+185,IMD410,Parcialmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Melanoma,Melanoma,0,0,1
+186,IMD413,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Melanoma,Lentigo Maligna,0,0,1
+187,IMD417,Totalmente A.,Atípico,Atípico,Ausente,Presente,Presente,1,0,1,1,1,1,Melanoma,Melanoma,0,0,1
+188,IMD418,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Ausente,0,0,1,1,0,1,Melanoma,Melanoma,0,0,1
+189,IMD419,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Presente,0,0,1,1,1,1,Melanoma,Melanoma,0,0,1
+190,IMD406,Totalmente A.,Atípico,Atípico,Ausente,Presente,Ausente,1,0,1,1,0,0,Melanoma,0,0,0,1
+191,IMD411,Totalmente A.,Atípico,Atípico,Ausente,Ausente,Ausente,0,0,1,1,0,0,Melanoma,Lentigo Maligna,0,0,1
+192,IMD420,Totalmente A.,Atípico,Atípico,Presente,Presente,Presente,1,0,1,1,1,0,Melanoma,Melanoma,0,0,1
+193,IMD421,Totalmente A.,Atípico,Atípico,Ausente,Presente,Presente,1,0,1,1,1,0,Melanoma,Melanoma,0,0,1
+194,IMD423,Simétrico,Atípico,Atípico,Ausente,Ausente,Presente,0,0,1,1,1,0,Melanoma,Melanoma,0,0,1
+195,IMD424,Totalmente A.,Atípico,Atípico,Presente,Ausente,Presente,0,0,1,1,1,1,Melanoma,Melanoma,0,0,1
+196,IMD425,Totalmente A.,Atípico,Atípico,Ausente,Presente,Presente,0,0,1,1,1,1,Melanoma,Melanoma,0,0,1
+197,IMD426,Totalmente A.,Atípico,Ausente,Ausente,Presente,Ausente,0,0,1,1,0,0,Melanoma,Melanoma,0,0,1
+198,IMD429,Simétrico,Atípico,Ausente,Presente,Ausente,Presente,0,0,1,1,1,1,Melanoma,0,0,0,1
+199,IMD435,Totalmente A.,Atípico,Ausente,Ausente,Ausente,Presente,0,0,1,1,1,1,Melanoma,Lentigo Maligna,0,0,1
